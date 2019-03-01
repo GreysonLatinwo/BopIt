@@ -16,8 +16,8 @@ Setup:
 Execution: 
 run this command:
 ./ds4rd -d <device id> -D DS4_<BT/USB> -t -b -bt -bd | ./<filename>
-  use BT or USB based on whether you connected the Ps4 controller to the computer through Bluetooth or USB.
-  replace "<filename>" with the name use to compile the C code.
+use BT or USB based on whether you connected the Ps4 controller to the computer through Bluetooth or USB.
+replace "<filename>" with the name use to compile the C code.
 
 Help:
 for more options and help with the ds4rd file
